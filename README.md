@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Arash<br>👀 I’m interested in programming!<br>🌱 I'm a graduate of Master of Engineering in Mechatronics<br>💞️ I'm currently working in Galaxy Project (@galaxyproject) as a backend developer in Python 
+👋 Hi, I'm Arash<br>👀 I’m interested in programming!<br>🌱 I'm a graduate of Master of Engineering in Mechatronics.<br>💞️ I'm currently working in Galaxy Project as a backend developer in Python.
 
 
 # 💻 Tech Stack:
