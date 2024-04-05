@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @arash77<br>👀 I’m interested in programming!<br>🌱 I’m currently learning Mechatronic and cyber-physical systems<br>💞️ I’m looking to collaborate on python and/or C programming
+👋 Hi, I'm Arash<br>👀 I’m interested in programming!<br>🌱 I'm a graduate of Master of Engineering in Mechatronics<br>💞️ I'm currently working in Galaxy Project (@galaxyproject) as a backend developer in Python 
 
 
 # 💻 Tech Stack:
