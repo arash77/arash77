@@ -47,5 +47,7 @@ Software engineer focused on backend systems, open-source infrastructure, and de
 ---
 
 <p align="center">
-  <a href="https://kadkhodaei.de">kadkhodaei.de</a>
+  <a href="https://kadkhodaei.de">
+    <img src="https://img.shields.io/badge/🌐%20kadkhodaei.de-Visit%20Website-4A90E2?style=for-the-badge" alt="Website" />
+  </a>
 </p>
